@@ -1,6 +1,6 @@
 # Underbar
 
-This is a project I completed as a student at Hack Reactor. This project was worked on with a pair. The project is a minimal functional library for javascript, similar to underscore or lodash.
+This is a project I completed as a student at Hack Reactor. This project was worked on with a pair. Underbar is a reimplementation of the popular Underscore.js library.
 
 ## Collection methods:
 - _.first()
