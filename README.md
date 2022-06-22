@@ -1,6 +1,6 @@
 # Underbar
 
-This is a project I completed as a student at Hack Reactor. This project was worked on with a pair. Underbar is a reimplementation of the popular Underscore.js library.
+This is a project I completed as a student at Hack Reactor. This project was worked on with a pair. Underbar is a reimplementation of the popular Underscore.js library. It is a collection of functional programming helpers without extending any built-in objects.
 
 ## Collection methods:
 - _.first()
